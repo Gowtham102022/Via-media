@@ -30,7 +30,7 @@ export const images = {
   middleSchool: "/assets/images/pathways/middle-school.jpg",
   
   // CTA Building image
-  ctaBuilding: "/assets/images/cta-building.jpg",
+  ctaBuilding: "/assets/images/building.jpg",
 };
 
 export const icons = {
@@ -51,4 +51,5 @@ export const graphics = {
   waveBottom: "/assets/graphics/wave-bottom.svg",
   heroWave: "/assets/graphics/hero-wave.svg",
   mountainSilhouette: "/assets/graphics/mountain-silhouette.svg",
+  ctavector: "/assets/graphics/ctavector.png",
 };
